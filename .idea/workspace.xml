@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72875dd0-afff-4538-b89e-77d2b90e6215" name="Default Changelist" comment="updateV2.7&#10;添加连接数据库功能 &#10;添加注册功能,取消试用模式&#10;添加最新活动支持">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolSteam.coverage" NAME="YugiohToolSteam Coverage Results" MODIFIED="1587743359472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolRebootSteam.coverage" NAME="YugiohToolRebootSteam Coverage Results" MODIFIED="1592489540382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$Yugiohdemo.coverage" NAME="Yugiohdemo Coverage Results" MODIFIED="1586356019984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohTool__1_.coverage" NAME="YugiohTool (1) Coverage Results" MODIFIED="1587742848267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testshiyong.coverage" NAME="testshiyong Coverage Results" MODIFIED="1587810489754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$regist.coverage" NAME="regist Coverage Results" MODIFIED="1593369132472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testfor.coverage" NAME="testfor Coverage Results" MODIFIED="1586712834273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmysql.coverage" NAME="testmysql Coverage Results" MODIFIED="1591632012572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolDemo.coverage" NAME="YugiohToolDemo Coverage Results" MODIFIED="1591021903602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmain__1_.coverage" NAME="testmain (1) Coverage Results" MODIFIED="1586787238169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testduoxiancheng2.coverage" NAME="testduoxiancheng2 Coverage Results" MODIFIED="1587905240284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$MysqlHelper.coverage" NAME="MysqlHelper Coverage Results" MODIFIED="1593366280365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmethod.coverage" NAME="testmethod Coverage Results" MODIFIED="1586430035870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$Yugiohdemo__1_.coverage" NAME="Yugiohdemo (1) Coverage Results" MODIFIED="1586402819058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmysqlFengzhuang.coverage" NAME="testmysqlFengzhuang Coverage Results" MODIFIED="1592238146358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohTool.coverage" NAME="YugiohTool Coverage Results" MODIFIED="1593369138707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolErrorSteam.coverage" NAME="YugiohToolErrorSteam Coverage Results" MODIFIED="1589815063761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testdianji.coverage" NAME="testdianji Coverage Results" MODIFIED="1589477062580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$Pic2py__1_.coverage" NAME="Pic2py (1) Coverage Results" MODIFIED="1586423921900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图片" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmain.coverage" NAME="testmain Coverage Results" MODIFIED="1586763965770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$text_.coverage" NAME="text% Coverage Results" MODIFIED="1589186303963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testsize.coverage" NAME="testsize Coverage Results" MODIFIED="1592482730148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$main.coverage" NAME="main Coverage Results" MODIFIED="1587475513793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testzuce.coverage" NAME="testzuce Coverage Results" MODIFIED="1591632144502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testduoxianchen.coverage" NAME="testduoxianchen Coverage Results" MODIFIED="1589128867802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testmain2.coverage" NAME="testmain2 Coverage Results" MODIFIED="1586786711952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testprint.coverage" NAME="testprint Coverage Results" MODIFIED="1587739388922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testduoxiancheng.coverage" NAME="testduoxiancheng Coverage Results" MODIFIED="1587812457803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolErrorMoniqi.coverage" NAME="YugiohToolErrorMoniqi Coverage Results" MODIFIED="1589814961086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$Pic2py.coverage" NAME="Pic2py Coverage Results" MODIFIED="1592834495006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/图片" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testTime.coverage" NAME="testTime Coverage Results" MODIFIED="1593528865742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$cdkey.coverage" NAME="cdkey Coverage Results" MODIFIED="1592404349403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+    <SUITE FILE_PATH="coverage/YugiohTool$YugiohToolRebootMoniqi.coverage" NAME="YugiohToolRebootMoniqi Coverage Results" MODIFIED="1589043746466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YugiohTool$testwait.coverage" NAME="testwait Coverage Results" MODIFIED="1590946585527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.pingxiaoping.top" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.pingxiaoping.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.pingxiaoping.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yugiohtool: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.pingxiaoping.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yugiohtool: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tool_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.wuwuopen.top" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.wuwuopen.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.wuwuopen.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yugiohtool: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="yugiohtool@www.wuwuopen.top" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="yugiohtool: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tool_user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/YugiohTool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2785">
+              <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding>
+                <element signature="e#147#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/testTime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#144#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YugiohToolSteam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5636">
+              <caret line="313" column="48" selection-start-line="313" selection-start-column="48" selection-end-line="313" selection-end-column="48" />
+              <folding>
+                <element signature="e#154#170#0" expanded="true" />
+                <element signature="e#11838#16271#0" />
+                <element signature="e#16321#23714#0" />
+                <element signature="e#23762#23779#0" />
+                <element signature="e#27749#30876#0" />
+                <element signature="e#30915#34409#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YugiohToolMoniqi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="334" column="73" selection-start-line="334" selection-start-column="73" selection-end-line="334" selection-end-column="73" />
+              <folding>
+                <element signature="e#154#170#0" expanded="true" />
+                <element signature="e#1631#6311#0" />
+                <element signature="e#2362#2403#0" />
+                <element signature="e#2536#6256#0" />
+                <element signature="e#5214#5720#0" />
+                <element signature="e#5744#6256#0" />
+                <element signature="e#6349#6495#0" />
+                <element signature="e#6540#6764#0" />
+                <element signature="e#6803#6870#0" />
+                <element signature="e#6916#7061#0" />
+                <element signature="e#7130#7305#0" />
+                <element signature="e#7665#7742#0" />
+                <element signature="e#8638#8718#0" />
+                <element signature="e#9107#9170#0" />
+                <element signature="e#9354#9484#0" />
+                <element signature="e#9697#10070#0" />
+                <element signature="e#9951#10070#0" />
+                <element signature="e#10258#10388#0" />
+                <element signature="e#10601#10974#0" />
+                <element signature="e#10855#10974#0" />
+                <element signature="e#11172#11372#0" />
+                <element signature="e#11431#11650#0" />
+                <element signature="e#11687#11775#0" />
+                <element signature="e#11811#11900#0" />
+                <element signature="e#11931#12032#0" />
+                <element signature="e#12062#12164#0" />
+                <element signature="e#12193#12253#0" />
+                <element signature="e#12284#12543#0" />
+                <element signature="e#12459#12543#0" />
+                <element signature="e#12641#17082#0" />
+                <element signature="e#12649#17027#0" />
+                <element signature="e#12891#17027#0" />
+                <element signature="e#12936#13013#0" />
+                <element signature="e#13225#16429#0" />
+                <element signature="e#13435#16429#0" />
+                <element signature="e#13648#14071#0" />
+                <element signature="e#13789#14071#0" />
+                <element signature="e#14090#16390#0" />
+                <element signature="e#14119#16390#0" />
+                <element signature="e#14317#16230#0" />
+                <element signature="e#14640#16122#0" />
+                <element signature="e#14782#16122#0" />
+                <element signature="e#14942#15082#0" />
+                <element signature="e#15127#15254#0" />
+                <element signature="e#15336#16122#0" />
+                <element signature="e#15395#16104#0" />
+                <element signature="e#15568#15699#0" />
+                <element signature="e#15746#16104#0" />
+                <element signature="e#15939#16104#0" />
+                <element signature="e#16148#16230#0" />
+                <element signature="e#16269#16390#0" />
+                <element signature="e#16461#16543#0" />
+                <element signature="e#16573#16656#0" />
+                <element signature="e#16685#16745#0" />
+                <element signature="e#16776#17027#0" />
+                <element signature="e#16943#17027#0" />
+                <element signature="e#17133#24643#0" />
+                <element signature="e#17141#24588#0" />
+                <element signature="e#17398#24588#0" />
+                <element signature="e#17445#17522#0" />
+                <element signature="e#17734#23983#0" />
+                <element signature="e#17870#17937#0" />
+                <element signature="e#18048#18142#0" />
+                <element signature="e#18175#23983#0" />
+                <element signature="e#18284#23983#0" />
+                <element signature="e#18337#18417#0" />
+                <element signature="e#18748#18811#0" />
+                <element signature="e#18846#23479#0" />
+                <element signature="e#18995#19125#0" />
+                <element signature="e#19299#23436#0" />
+                <element signature="e#19339#23436#0" />
+                <element signature="e#19686#23268#0" />
+                <element signature="e#19904#20094#0" />
+                <element signature="e#20007#20094#0" />
+                <element signature="e#20207#23155#0" />
+                <element signature="e#20342#23103#0" />
+                <element signature="e#20384#23103#0" />
+                <element signature="e#20493#23103#0" />
+                <element signature="e#20535#23103#0" />
+                <element signature="e#20715#21052#0" />
+                <element signature="e#20926#21052#0" />
+                <element signature="e#21107#21244#0" />
+                <element signature="e#21336#22259#0" />
+                <element signature="e#21407#22236#0" />
+                <element signature="e#21605#21746#0" />
+                <element signature="e#21803#22236#0" />
+                <element signature="e#22021#22236#0" />
+                <element signature="e#22303#23103#0" />
+                <element signature="e#22349#23103#0" />
+                <element signature="e#22472#22613#0" />
+                <element signature="e#22670#23103#0" />
+                <element signature="e#22888#23103#0" />
+                <element signature="e#23185#23268#0" />
+                <element signature="e#23311#23436#0" />
+                <element signature="e#23514#23733#0" />
+                <element signature="e#23770#23858#0" />
+                <element signature="e#23894#23983#0" />
+                <element signature="e#24014#24096#0" />
+                <element signature="e#24126#24209#0" />
+                <element signature="e#24238#24298#0" />
+                <element signature="e#24329#24588#0" />
+                <element signature="e#24504#24588#0" />
+                <element signature="e#24692#24709#0" />
+                <element signature="e#24711#24717#0" />
+                <element signature="e#28659#31788#0" />
+                <element signature="e#28667#31726#0" />
+                <element signature="e#28909#31726#0" />
+                <element signature="e#28956#29033#0" />
+                <element signature="e#29245#31083#0" />
+                <element signature="e#29381#29448#0" />
+                <element signature="e#29472#31083#0" />
+                <element signature="e#29523#29602#0" />
+                <element signature="e#29963#30414#0" />
+                <element signature="e#30129#30218#0" />
+                <element signature="e#30449#30572#0" />
+                <element signature="e#30606#30730#0" />
+                <element signature="e#30763#30825#0" />
+                <element signature="e#30858#30980#0" />
+                <element signature="e#31014#31083#0" />
+                <element signature="e#31114#31215#0" />
+                <element signature="e#31245#31347#0" />
+                <element signature="e#31376#31436#0" />
+                <element signature="e#31467#31726#0" />
+                <element signature="e#31642#31726#0" />
+                <element signature="e#31828#35328#0" />
+                <element signature="e#31836#35273#0" />
+                <element signature="e#32078#35273#0" />
+                <element signature="e#32125#32202#0" />
+                <element signature="e#32414#34630#0" />
+                <element signature="e#32550#32617#0" />
+                <element signature="e#32641#34630#0" />
+                <element signature="e#32692#32771#0" />
+                <element signature="e#33197#33648#0" />
+                <element signature="e#33363#33452#0" />
+                <element signature="e#33682#33790#0" />
+                <element signature="e#33825#33935#0" />
+                <element signature="e#33970#34080#0" />
+                <element signature="e#34113#34219#0" />
+                <element signature="e#34254#34377#0" />
+                <element signature="e#34411#34535#0" />
+                <element signature="e#34568#34630#0" />
+                <element signature="e#34661#34762#0" />
+                <element signature="e#34792#34894#0" />
+                <element signature="e#34923#34983#0" />
+                <element signature="e#35014#35273#0" />
+                <element signature="e#35189#35273#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YugiohToolErrorSteam.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+              <folding>
+                <element signature="e#156#172#0" expanded="true" />
+                <element signature="e#856#1786#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/regist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+              <folding>
+                <element signature="e#141#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MysqlHelper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="827">
+              <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+              <folding>
+                <element signature="e#146#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>9198</find>
+      <find>zjm</find>
+      <find>tuisong_time = None</find>
+      <find>zdqr</find>
+      <find>if g ==</find>
+      <find>while</find>
+      <find>guding</find>
+      <find>confidence</find>
+      <find>空白</find>
+      <find>0.8719</find>
+      <find>0.0173, 0.8617</find>
+      <find>0.7</find>
+      <find>300</find>
+      <find>grayscale=False</find>
+      <find>grayscale=False,</find>
+      <find>grayscale=True</find>
+      <find>haod</find>
+      <find>lvs</find>
+      <find>StopIteration</find>
+      <find>lv</find>
+      <find>ls</find>
+      <find>jd</find>
+      <find>'jd', grayscale=False</find>
+      <find>0.5</find>
+      <find>dianjicount = 0</find>
+      <find>cs</find>
+      <find>kn</find>
+      <find>jiqi_code</find>
+      <find>openCount</find>
+      <find>e</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>confidence=0.8</replace>
+      <replace>8857</replace>
+      <replace>0.8719, 0.2174</replace>
+      <replace>200</replace>
+      <replace>grayscale=True, region=(self.size[0], self.size[1], 578, 998)</replace>
+      <replace>grayscale=False, region=(self.size[0], self.size[1], 578, 998)</replace>
+      <replace>grayscale=True,</replace>
+      <replace>grayscale=True,region=(self.size[0], self.size[1],1026, 608)</replace>
+      <replace>grayscale=False,region=(self.size[0], self.size[1],1026, 608)</replace>
+      <replace>grayscale=False,region=(self.size[0], self.size[1], 1026, 608)</replace>
+      <replace>grayscale=True, region=(self.size[0], self.size[1], 1026, 608)</replace>
+      <replace>Networkerror</replace>
+      <replace>1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testBranch" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test/Pic2py.py" />
+        <option value="$PROJECT_DIR$/Test/testgongji.py" />
+        <option value="$PROJECT_DIR$/Yugiohdemo.py" />
+        <option value="$PROJECT_DIR$/Test/testmethod.py" />
+        <option value="$PROJECT_DIR$/Test/testfor.py" />
+        <option value="$PROJECT_DIR$/Test/testmain.py" />
+        <option value="$PROJECT_DIR$/Test/testmain2.py" />
+        <option value="$PROJECT_DIR$/testmain.py" />
+        <option value="$PROJECT_DIR$/Test/leidian4.0.py" />
+        <option value="$PROJECT_DIR$/leidian4.0.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Test/Yugiohdemo.py" />
+        <option value="$PROJECT_DIR$/Test/autoad.py" />
+        <option value="$PROJECT_DIR$/Test/testprint.py" />
+        <option value="$PROJECT_DIR$/Test/test试用.py" />
+        <option value="$PROJECT_DIR$/Test/PM" />
+        <option value="$PROJECT_DIR$/Test/XX" />
+        <option value="$PROJECT_DIR$/Test/testshiyong.py" />
+        <option value="$PROJECT_DIR$/Test/testduoxiancheng.py" />
+        <option value="$PROJECT_DIR$/Test/testduoxiancheng2.py" />
+        <option value="$PROJECT_DIR$/Test/vim" />
+        <option value="$PROJECT_DIR$/YugiohToolError.py" />
+        <option value="$PROJECT_DIR$/Test/testduoxianchen.py" />
+        <option value="$PROJECT_DIR$/Test/text%.py" />
+        <option value="$PROJECT_DIR$/YugiohToolErrorMoniqi.py" />
+        <option value="$PROJECT_DIR$/Test/testdianji.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Test/11.txt" />
+        <option value="$PROJECT_DIR$/YugiohToolRebootMoniqi.py" />
+        <option value="$PROJECT_DIR$/Test/testwait.py" />
+        <option value="$PROJECT_DIR$/Test/testmysql.py" />
+        <option value="$PROJECT_DIR$/Test/testzuce.py" />
+        <option value="$PROJECT_DIR$/YugiohToolErrorSteam.py" />
+        <option value="$PROJECT_DIR$/YugiohToolDemo.py" />
+        <option value="$PROJECT_DIR$/Test/testmysqlFengzhuang.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6b10ee79-c3c8-49e5-ba63-642db08a4a2a/console.sql" />
+        <option value="$PROJECT_DIR$/Test/cdkey.py" />
+        <option value="$PROJECT_DIR$/Test/testsize.py" />
+        <option value="$PROJECT_DIR$/YugiohToolRebootSteam.py" />
+        <option value="$PROJECT_DIR$/图片/Pic2py.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="6b10ee79-c3c8-49e5-ba63-642db08a4a2a/schema/yugiohtool/table/tool_user.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/781ef099-ac7e-40cf-a4f4-59791e48f3fe/console.sql" />
+        <option value="$PROJECT_DIR$/regist.py" />
+        <option value="$PROJECT_DIR$/MysqlHelper.py" />
+        <option value="$PROJECT_DIR$/YugiohTool.py" />
+        <option value="$PROJECT_DIR$/Test/testTime.py" />
+        <option value="$PROJECT_DIR$/YugiohToolSteam.py" />
+        <option value="$PROJECT_DIR$/YugiohToolMoniqi.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YugiohTool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YugiohTool" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/Test/testdianji.py&#10;E:/YugiohTool/Test/testwait.py&#10;E:/YugiohTool/Test/testmysqlFengzhuang.py&#10;E:/YugiohTool/regist.py&#10;true&#10;E:/YugiohTool/YugiohToolMoniqi.py&#10;E:/YugiohTool/Test/testmysql.py&#10;E:/YugiohTool/MysqlHelper.py&#10;E:/YugiohTool/YugiohToolSteam.py&#10;E:/YugiohTool/Test/cdkey.py" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\YugiohTool" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testTime">
+    <configuration name="MysqlHelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YugiohTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MysqlHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pic2py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YugiohTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/图片" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/图片/Pic2py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YugiohTool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YugiohTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YugiohTool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YugiohTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/regist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="YugiohTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/testTime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testTime" />
+        <item itemvalue="Python.YugiohTool" />
+        <item itemvalue="Python.regist" />
+        <item itemvalue="Python.MysqlHelper" />
+        <item itemvalue="Python.Pic2py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72875dd0-afff-4538-b89e-77d2b90e6215" name="Default Changelist" comment="" />
+      <created>1586282384382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586282384382</updated>
+      <workItem from="1586282389757" duration="28000" />
+      <workItem from="1586282440667" duration="1288000" />
+      <workItem from="1586398239369" duration="34412000" />
+      <workItem from="1586454225354" duration="444000" />
+      <workItem from="1586479112791" duration="1647000" />
+      <workItem from="1586695548268" duration="11897000" />
+      <workItem from="1586763166313" duration="2397000" />
+      <workItem from="1586765913376" duration="7894000" />
+      <workItem from="1586791983851" duration="4424000" />
+      <workItem from="1586797149532" duration="2611000" />
+      <workItem from="1586841811054" duration="4879000" />
+      <workItem from="1586885847550" duration="245000" />
+      <workItem from="1586937281446" duration="14646000" />
+      <workItem from="1587053844824" duration="3958000" />
+      <workItem from="1587208081325" duration="11149000" />
+      <workItem from="1587297139003" duration="4839000" />
+      <workItem from="1587318292794" duration="26490000" />
+      <workItem from="1587460671291" duration="18820000" />
+      <workItem from="1587540712844" duration="5889000" />
+      <workItem from="1587661655212" duration="2697000" />
+      <workItem from="1587732748690" duration="8423000" />
+      <workItem from="1587742754329" duration="1598000" />
+      <workItem from="1587747593752" duration="3130000" />
+      <workItem from="1587787008319" duration="1274000" />
+      <workItem from="1587788581663" duration="22187000" />
+      <workItem from="1587898543456" duration="6499000" />
+      <workItem from="1587990311547" duration="2460000" />
+      <workItem from="1588092713844" duration="712000" />
+      <workItem from="1588349365208" duration="1665000" />
+      <workItem from="1588939249340" duration="11284000" />
+      <workItem from="1588959375449" duration="10486000" />
+      <workItem from="1589031581253" duration="9859000" />
+      <workItem from="1589084425945" duration="13101000" />
+      <workItem from="1589121583935" duration="238000" />
+      <workItem from="1589121941754" duration="9113000" />
+      <workItem from="1589185400497" duration="21188000" />
+      <workItem from="1589280196970" duration="14000" />
+      <workItem from="1589280315996" duration="4802000" />
+      <workItem from="1589306878734" duration="708000" />
+      <workItem from="1589455479353" duration="2898000" />
+      <workItem from="1589724175879" duration="661000" />
+      <workItem from="1589814678368" duration="1098000" />
+      <workItem from="1589877536157" duration="10798000" />
+      <workItem from="1589969569587" duration="7370000" />
+      <workItem from="1590055487121" duration="6626000" />
+      <workItem from="1590107040904" duration="1486000" />
+      <workItem from="1590111589560" duration="1060000" />
+      <workItem from="1590313562067" duration="3766000" />
+      <workItem from="1590396292019" duration="5892000" />
+      <workItem from="1590509839014" duration="6012000" />
+      <workItem from="1590596112391" duration="3708000" />
+      <workItem from="1590681303464" duration="5265000" />
+      <workItem from="1590943772810" duration="3818000" />
+      <workItem from="1591019504625" duration="5744000" />
+      <workItem from="1591288880626" duration="425000" />
+      <workItem from="1591628420645" duration="2042000" />
+      <workItem from="1591631993525" duration="7973000" />
+      <workItem from="1592222817878" duration="7061000" />
+      <workItem from="1592237118407" duration="4053000" />
+      <workItem from="1592316919182" duration="10360000" />
+      <workItem from="1592391714542" duration="15912000" />
+      <workItem from="1592410998963" duration="2175000" />
+      <workItem from="1592473497727" duration="15767000" />
+      <workItem from="1592839674384" duration="5389000" />
+      <workItem from="1593006969650" duration="3415000" />
+      <workItem from="1593263730189" duration="16327000" />
+      <workItem from="1593437583846" duration="2242000" />
+      <workItem from="1593521518694" duration="7728000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1586348545667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586348545667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加十级门功能">
+      <created>1586367229385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586367229385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加十级门功能&#10;添加pvp竞技场KV杯，排名，休闲选择功能&#10;更新欢迎界面">
+      <created>1586450357983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586450357983</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新欢迎界面">
+      <created>1586452218972</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586452218972</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updateV1.2">
+      <created>1586489187427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586489187427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updateV1.3">
+      <created>1586796696660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586796696661</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updateV1.3.1">
+      <created>1586845892749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586845892749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updateV1.3.2">
+      <created>1586878841005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586878841005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updateV1.3.2">
+      <created>1586878968775</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1586878968775</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updateV1.3.3">
+      <created>1586961301668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586961301668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updateV1.3.4&#10;添加活动组队决斗">
+      <created>1586966221228</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586966221228</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updateV1.4&#10;适配steam">
+      <created>1587317762628</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587317762628</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updateV1.3.5">
+      <created>1587378761702</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587378761702</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updateV1.3.6">
+      <created>1587400474445</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587400474445</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updateV1.3.6">
+      <created>1587478009093</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587478009094</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updateV1.4&#10;添加main主程序&#10;添加多线程">
+      <created>1587478112492</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587478112492</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updateV2.0">
+      <created>1587489006733</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587489006733</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updateV1.4&#10;添加main主程序&#10;添加多线程">
+      <created>1587546018871</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587546018871</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updateV2.1&#10;修改steam分辨率要求">
+      <created>1587750103937</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587750103937</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updateV1.3.6">
+      <created>1587787755356</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587787755356</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updateV2.1&#10;修改steam分辨率要求">
+      <created>1587788796407</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587788796407</updated>
+    </task>
+    <task id="LOCAL-00022" summary="updateV2.1&#10;修改steam分辨率要求">
+      <created>1587789149855</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587789149855</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updateV2.1&#10;修改steam分辨率要求">
+      <created>1587832304371</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832304371</updated>
+    </task>
+    <task id="LOCAL-00024" summary="updateV2.2&#10;添加检测错误线程">
+      <created>1589021118608</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589021118608</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updateV2.3&#10;脚本中断超过十分钟自动重启游戏&#10;缩小脚本检测范围，提高脚本速度&#10;其他稳定性提升">
+      <created>1589206397939</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1589206397939</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updateV2.4&#10;脚本重启游戏前截图游戏界面并保存方便查看&#10;其他稳定性提升">
+      <created>1589879461619</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1589879461619</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updateV2.4&#10;脚本重启游戏前截图游戏界面并保存方便查看&#10;其他稳定性提升">
+      <created>1590339620102</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1590339620102</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updateV2.7&#10;添加连接数据库功能 &#10;添加注册功能,取消试用模式&#10;添加最新活动支持">
+      <created>1592834921021</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1592834921021</updated>
+    </task>
+    <task id="LOCAL-00029" summary="updateV2.7&#10;添加连接数据库功能 &#10;添加注册功能,取消试用模式&#10;添加最新活动支持">
+      <created>1593530883766</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1593530883766</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="473771000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4946695" weight="0.3557484" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49626866" weight="0.3275488" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49200428" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5053305" side_tool="true" weight="0.5097614" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.4989339" weight="0.28850326" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" weight="0.13539445" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4946695" visible="true" weight="0.3557484" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4989339" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49626866" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49200428" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4989339" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5053305" side_tool="true" weight="0.5097614" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Console" order="15" sideWeight="0.4989339" weight="0.28850326" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.13539445" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="添加十级门功能" />
+    <MESSAGE value="添加十级门功能&#10;添加pvp竞技场KV杯，排名，休闲选择功能&#10;更新欢迎界面" />
+    <MESSAGE value="更新欢迎界面" />
+    <MESSAGE value="updateV1.2" />
+    <MESSAGE value="updateV1.3" />
+    <MESSAGE value="updateV1.3.1" />
+    <MESSAGE value="updateV1.3.2" />
+    <MESSAGE value="updateV1.3.3" />
+    <MESSAGE value="updateV1.3.4&#10;添加活动组队决斗" />
+    <MESSAGE value="updateV1.4&#10;适配steam" />
+    <MESSAGE value="updateV1.3.5" />
+    <MESSAGE value="updateV2.0" />
+    <MESSAGE value="updateV1.4&#10;添加main主程序&#10;添加多线程" />
+    <MESSAGE value="updateV1.3.6" />
+    <MESSAGE value="updateV2.1&#10;修改steam分辨率要求" />
+    <MESSAGE value="updateV2.2&#10;添加检测错误线程" />
+    <MESSAGE value="updateV2.3&#10;脚本中断超过十分钟自动重启游戏&#10;缩小脚本检测范围，提高脚本速度&#10;其他稳定性提升" />
+    <MESSAGE value="updateV2.4&#10;脚本重启游戏前截图游戏界面并保存方便查看&#10;其他稳定性提升" />
+    <MESSAGE value="updateV2.7&#10;添加连接数据库功能 &#10;添加注册功能,取消试用模式&#10;添加最新活动支持" />
+    <option name="LAST_COMMIT_MESSAGE" value="updateV2.7&#10;添加连接数据库功能 &#10;添加注册功能,取消试用模式&#10;添加最新活动支持" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Test/autoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testgongji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1407">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/YugiohTool-steam.py" />
+    <entry file="file://$PROJECT_DIR$/Test/PM">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="202" column="33" selection-start-line="202" selection-start-column="33" selection-end-line="202" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/XX">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="204" column="33" selection-start-line="204" selection-start-column="33" selection-end-line="204" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testduoxiancheng2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding>
+            <element signature="e#152#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/vim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6069">
+          <caret line="289" selection-start-line="289" selection-end-line="289" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testduoxianchen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/text%.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片/jiesujuedou_steam.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/11.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d56580a0-a06e-46ad-8726-2aa1417d5917/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/pyautogui/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="1110" column="17" lean-forward="true" selection-start-line="1110" selection-start-column="17" selection-end-line="1110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/pyscreeze/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="303" column="19" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testwait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="50" column="12" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testshiyong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#147#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/6b10ee79-c3c8-49e5-ba63-642db08a4a2a.SCHEMA:yugiohtool">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>6b10ee79-c3c8-49e5-ba63-642db08a4a2a.SCHEMA:yugiohtool</OriginalElement>
+          <nodes>
+            <node x="" y="">6b10ee79-c3c8-49e5-ba63-642db08a4a2a.TABLE:yugiohtool.tool_user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="105.0" y="96.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testzuce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="75" selection-start-line="71" selection-start-column="4" selection-end-line="75" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolErrorMoniqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <folding>
+            <element signature="e#156#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolRebootMoniqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="104" column="27" selection-start-line="104" selection-start-column="27" selection-end-line="104" selection-end-column="27" />
+          <folding>
+            <element signature="e#158#174#0" expanded="true" />
+            <element signature="e#3127#4661#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testmysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testmysqlFengzhuang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="84" column="12" lean-forward="true" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="12" />
+          <folding>
+            <element signature="e#154#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="208" column="46" selection-start-line="208" selection-start-column="46" selection-end-line="208" selection-end-column="46" />
+          <folding>
+            <element signature="e#147#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6b10ee79-c3c8-49e5-ba63-642db08a4a2a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/cdkey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testdianji.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="134" column="55" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
+          <folding>
+            <element signature="e#146#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testmain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7017" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/win32gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1016" column="8" selection-start-line="1016" selection-start-column="8" selection-end-line="1016" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图片/Pic2py.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="31" column="57" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6b10ee79-c3c8-49e5-ba63-642db08a4a2a/collation/gbk_bin">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testsize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="41" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/781ef099-ac7e-40cf-a4f4-59791e48f3fe/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://781ef099-ac7e-40cf-a4f4-59791e48f3fe/schema/yugiohtool/table/tool_user" />
+    <entry file="das://6b10ee79-c3c8-49e5-ba63-642db08a4a2a/schema/yugiohtool/table/tool_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6b10ee79-c3c8-49e5-ba63-642db08a4a2a/schema/yugiohtool/table/tool_user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/66d52137-d64d-47b8-95e8-74a2ad133f07/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://66d52137-d64d-47b8-95e8-74a2ad133f07/schema/yugiohtool/table/tool_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="1582697701" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolRebootSteam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-727">
+          <caret line="97" column="21" lean-forward="true" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+          <folding>
+            <element signature="e#157#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="905" selection-start-line="905" selection-end-line="905" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="399">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MysqlHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+          <folding>
+            <element signature="e#146#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+          <folding>
+            <element signature="e#141#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolErrorSteam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="108" column="32" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="32" />
+          <folding>
+            <element signature="e#156#172#0" expanded="true" />
+            <element signature="e#856#1786#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolMoniqi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="334" column="73" selection-start-line="334" selection-start-column="73" selection-end-line="334" selection-end-column="73" />
+          <folding>
+            <element signature="e#154#170#0" expanded="true" />
+            <element signature="e#1631#6311#0" />
+            <element signature="e#2362#2403#0" />
+            <element signature="e#2536#6256#0" />
+            <element signature="e#5214#5720#0" />
+            <element signature="e#5744#6256#0" />
+            <element signature="e#6349#6495#0" />
+            <element signature="e#6540#6764#0" />
+            <element signature="e#6803#6870#0" />
+            <element signature="e#6916#7061#0" />
+            <element signature="e#7130#7305#0" />
+            <element signature="e#7665#7742#0" />
+            <element signature="e#8638#8718#0" />
+            <element signature="e#9107#9170#0" />
+            <element signature="e#9354#9484#0" />
+            <element signature="e#9697#10070#0" />
+            <element signature="e#9951#10070#0" />
+            <element signature="e#10258#10388#0" />
+            <element signature="e#10601#10974#0" />
+            <element signature="e#10855#10974#0" />
+            <element signature="e#11172#11372#0" />
+            <element signature="e#11431#11650#0" />
+            <element signature="e#11687#11775#0" />
+            <element signature="e#11811#11900#0" />
+            <element signature="e#11931#12032#0" />
+            <element signature="e#12062#12164#0" />
+            <element signature="e#12193#12253#0" />
+            <element signature="e#12284#12543#0" />
+            <element signature="e#12459#12543#0" />
+            <element signature="e#12641#17082#0" />
+            <element signature="e#12649#17027#0" />
+            <element signature="e#12891#17027#0" />
+            <element signature="e#12936#13013#0" />
+            <element signature="e#13225#16429#0" />
+            <element signature="e#13435#16429#0" />
+            <element signature="e#13648#14071#0" />
+            <element signature="e#13789#14071#0" />
+            <element signature="e#14090#16390#0" />
+            <element signature="e#14119#16390#0" />
+            <element signature="e#14317#16230#0" />
+            <element signature="e#14640#16122#0" />
+            <element signature="e#14782#16122#0" />
+            <element signature="e#14942#15082#0" />
+            <element signature="e#15127#15254#0" />
+            <element signature="e#15336#16122#0" />
+            <element signature="e#15395#16104#0" />
+            <element signature="e#15568#15699#0" />
+            <element signature="e#15746#16104#0" />
+            <element signature="e#15939#16104#0" />
+            <element signature="e#16148#16230#0" />
+            <element signature="e#16269#16390#0" />
+            <element signature="e#16461#16543#0" />
+            <element signature="e#16573#16656#0" />
+            <element signature="e#16685#16745#0" />
+            <element signature="e#16776#17027#0" />
+            <element signature="e#16943#17027#0" />
+            <element signature="e#17133#24643#0" />
+            <element signature="e#17141#24588#0" />
+            <element signature="e#17398#24588#0" />
+            <element signature="e#17445#17522#0" />
+            <element signature="e#17734#23983#0" />
+            <element signature="e#17870#17937#0" />
+            <element signature="e#18048#18142#0" />
+            <element signature="e#18175#23983#0" />
+            <element signature="e#18284#23983#0" />
+            <element signature="e#18337#18417#0" />
+            <element signature="e#18748#18811#0" />
+            <element signature="e#18846#23479#0" />
+            <element signature="e#18995#19125#0" />
+            <element signature="e#19299#23436#0" />
+            <element signature="e#19339#23436#0" />
+            <element signature="e#19686#23268#0" />
+            <element signature="e#19904#20094#0" />
+            <element signature="e#20007#20094#0" />
+            <element signature="e#20207#23155#0" />
+            <element signature="e#20342#23103#0" />
+            <element signature="e#20384#23103#0" />
+            <element signature="e#20493#23103#0" />
+            <element signature="e#20535#23103#0" />
+            <element signature="e#20715#21052#0" />
+            <element signature="e#20926#21052#0" />
+            <element signature="e#21107#21244#0" />
+            <element signature="e#21336#22259#0" />
+            <element signature="e#21407#22236#0" />
+            <element signature="e#21605#21746#0" />
+            <element signature="e#21803#22236#0" />
+            <element signature="e#22021#22236#0" />
+            <element signature="e#22303#23103#0" />
+            <element signature="e#22349#23103#0" />
+            <element signature="e#22472#22613#0" />
+            <element signature="e#22670#23103#0" />
+            <element signature="e#22888#23103#0" />
+            <element signature="e#23185#23268#0" />
+            <element signature="e#23311#23436#0" />
+            <element signature="e#23514#23733#0" />
+            <element signature="e#23770#23858#0" />
+            <element signature="e#23894#23983#0" />
+            <element signature="e#24014#24096#0" />
+            <element signature="e#24126#24209#0" />
+            <element signature="e#24238#24298#0" />
+            <element signature="e#24329#24588#0" />
+            <element signature="e#24504#24588#0" />
+            <element signature="e#24692#24709#0" />
+            <element signature="e#24711#24717#0" />
+            <element signature="e#28659#31788#0" />
+            <element signature="e#28667#31726#0" />
+            <element signature="e#28909#31726#0" />
+            <element signature="e#28956#29033#0" />
+            <element signature="e#29245#31083#0" />
+            <element signature="e#29381#29448#0" />
+            <element signature="e#29472#31083#0" />
+            <element signature="e#29523#29602#0" />
+            <element signature="e#29963#30414#0" />
+            <element signature="e#30129#30218#0" />
+            <element signature="e#30449#30572#0" />
+            <element signature="e#30606#30730#0" />
+            <element signature="e#30763#30825#0" />
+            <element signature="e#30858#30980#0" />
+            <element signature="e#31014#31083#0" />
+            <element signature="e#31114#31215#0" />
+            <element signature="e#31245#31347#0" />
+            <element signature="e#31376#31436#0" />
+            <element signature="e#31467#31726#0" />
+            <element signature="e#31642#31726#0" />
+            <element signature="e#31828#35328#0" />
+            <element signature="e#31836#35273#0" />
+            <element signature="e#32078#35273#0" />
+            <element signature="e#32125#32202#0" />
+            <element signature="e#32414#34630#0" />
+            <element signature="e#32550#32617#0" />
+            <element signature="e#32641#34630#0" />
+            <element signature="e#32692#32771#0" />
+            <element signature="e#33197#33648#0" />
+            <element signature="e#33363#33452#0" />
+            <element signature="e#33682#33790#0" />
+            <element signature="e#33825#33935#0" />
+            <element signature="e#33970#34080#0" />
+            <element signature="e#34113#34219#0" />
+            <element signature="e#34254#34377#0" />
+            <element signature="e#34411#34535#0" />
+            <element signature="e#34568#34630#0" />
+            <element signature="e#34661#34762#0" />
+            <element signature="e#34792#34894#0" />
+            <element signature="e#34923#34983#0" />
+            <element signature="e#35014#35273#0" />
+            <element signature="e#35189#35273#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohToolSteam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5636">
+          <caret line="313" column="48" selection-start-line="313" selection-start-column="48" selection-end-line="313" selection-end-column="48" />
+          <folding>
+            <element signature="e#154#170#0" expanded="true" />
+            <element signature="e#11838#16271#0" />
+            <element signature="e#16321#23714#0" />
+            <element signature="e#23762#23779#0" />
+            <element signature="e#27749#30876#0" />
+            <element signature="e#30915#34409#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/testTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YugiohTool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2785">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#147#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

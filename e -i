@@ -1,0 +1,395 @@
+[33mcommit cb6fc5c12e3fae3a24b5c101503b3452c138e1da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mgithub/master[m[33m)[m
+Merge: eeca382 d0fb74c
+Author: zyatom <70906346@qq.com>
+Date:   Wed Jul 1 01:03:12 2020 +0800
+
+    rm config.ini
+
+[33mcommit eeca382311ff67ddd2aa622e808d6d4bc9154bcd[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Jul 1 00:53:25 2020 +0800
+
+    测试文件
+
+[33mcommit 8bc2eb8394af52b1bbf9a6da0f745009b5a9ac62[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Jul 1 00:25:37 2020 +0800
+
+    删除文件
+
+[33mcommit d0fb74cdebad2297de4d4459da78fa26955beede[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Jun 30 23:33:02 2020 +0800
+
+    Delete YugiohToolSteam.py
+
+[33mcommit fe20172f66bee2e6c5fecae511d865383a7eba83[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Jun 30 23:31:27 2020 +0800
+
+    Delete config.ini
+
+[33mcommit 115805245a7ce57f46692b941715c0d221a6417b[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Jun 30 23:28:03 2020 +0800
+
+    updateV2.7
+    添加连接数据库功能
+    添加注册功能,取消试用模式
+    添加最新活动支持
+
+[33mcommit b3fb40a5b45560d0ad74164f746fc4330c3d4a61[m
+Merge: 1b79d3b c9084f5
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 22:18:52 2020 +0800
+
+    Merge remote-tracking branch 'github/master'
+    
+    # Conflicts:
+    #       YugiohToolDemo.py
+    #       YugiohToolMoniqi.py
+    #       YugiohToolSteam.py
+    #       config.ini
+
+[33mcommit 1b79d3bbec4d4152ab2ccdf9375a5bcffc92381a[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 22:08:40 2020 +0800
+
+    updateV2.7
+    添加连接数据库功能
+    添加注册功能,取消试用模式
+    添加最新活动支持
+
+[33mcommit c9084f58392c83dfac7d1c00de3335087dba6f87[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 18:51:18 2020 +0800
+
+    Delete YugiohToolDemo.py
+
+[33mcommit c4ae77d56a925badf38a31a05ad3fef05885f2ec[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 18:50:05 2020 +0800
+
+    Update README.md
+
+[33mcommit 8ccc2dec366935681a96d58707611fa1084b9340[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 18:47:09 2020 +0800
+
+    Update README.md
+
+[33mcommit d3473369668bf81ff7d4d9f0c74b446f83a700cc[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 18:46:35 2020 +0800
+
+    Update README.md
+
+[33mcommit 4ba7ec44bb42a65d4bbff46b3e590fb3731ebacc[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 22 18:43:27 2020 +0800
+
+    Update README.md
+
+[33mcommit 91a597a619ba1355d8b06356769d9d206beb43b9[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Jun 1 01:59:33 2020 +0800
+
+    updateV2.4
+    脚本重启游戏前截图游戏界面并保存方便查看
+    其他稳定性提升
+
+[33mcommit a77b5766742d5b61d6a3b9fca71e3a10f2dbfac1[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon May 25 01:00:19 2020 +0800
+
+    updateV2.4
+    脚本重启游戏前截图游戏界面并保存方便查看
+    其他稳定性提升
+
+[33mcommit cbfb0ccd95b898c025665397a8d9dcedfb9b05a2[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue May 19 17:11:01 2020 +0800
+
+    updateV2.4
+    脚本重启游戏前截图游戏界面并保存方便查看
+    其他稳定性提升
+
+[33mcommit d698e3c40674532e16d5c7b2269cdf0bafb116db[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed May 13 01:16:39 2020 +0800
+
+    updateV2.3
+    添加重启前截图功能
+
+[33mcommit b36eab544d766e08331c9e38bc66e4073b490d45[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue May 12 21:44:14 2020 +0800
+
+    updateV2.3
+    修复模拟器一个bug
+    添加活动奖励识别
+
+[33mcommit 71e55aa3b8043faa7e7f03d3777f63a7cf66ba8b[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon May 11 22:13:17 2020 +0800
+
+    updateV2.3
+    脚本中断超过十分钟自动重启游戏
+    缩小脚本检测范围，提高脚本速度
+    其他稳定性提升
+
+[33mcommit 7355cda6b19c0766355dff2c890265ea58405983[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat May 9 18:45:18 2020 +0800
+
+    updateV2.2
+    添加检测错误线程
+
+[33mcommit f647709d809fa6951a512bc01716c096c100fcd0[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun Apr 26 00:31:44 2020 +0800
+
+    updateV2.1
+    修改steam分辨率要求
+
+[33mcommit b8f592d4c155dd8f92286f089f77f0ce8aa0f193[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun Apr 26 00:30:37 2020 +0800
+
+    Delete YugiohToolMoniqi.py
+
+[33mcommit a5b43225e8c172cdefb810a99afa049a4280001b[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun Apr 26 00:30:18 2020 +0800
+
+    Delete YugiohToolSteam.py
+
+[33mcommit 82e3c43b33da21570b90f442b6511642905a8008[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:53:51 2020 +0800
+
+    Update README.md
+
+[33mcommit 4d06f37690471d04df7583b36e850bc49f0e9727[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:46:43 2020 +0800
+
+    Delete config.ini
+
+[33mcommit 4f76abdb9aa17e3fd91bae8096dae625ac0260cd[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:46:21 2020 +0800
+
+    Delete leidian4.0.py
+
+[33mcommit b289686b19d8cfdb0d18c65c31904d1a6280504d[m[33m ([m[1;32mshijimeng[m[33m)[m
+Merge: 052c2c7 d9ade5d
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:26:36 2020 +0800
+
+    updateV2.1
+    修改steam分辨率要求
+
+[33mcommit 052c2c75d6c48b2ab00e92dd59d93d505fda62de[m[33m ([m[1;31mygo/shijimeng[m[33m)[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:18:07 2020 +0800
+
+    updateV2.1
+    修改steam分辨率要求
+
+[33mcommit 4fd2cf8d03c7e15ea65cf07b4b0e280078aa548d[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 12:09:15 2020 +0800
+
+    updateV1.3.6
+
+[33mcommit 3f8caec95f5cd1fa450212920b287f3423237f3b[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat Apr 25 01:41:43 2020 +0800
+
+    updateV2.1
+    修改steam分辨率要求
+
+[33mcommit c9342f43fb8bfc0530ad9b36803df5403e80a9a9[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 22 17:00:18 2020 +0800
+
+    updateV1.4
+    添加main主程序
+    添加多线程
+
+[33mcommit 20c42096e91d8dbcea7731114cf29b7c5f44219d[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 22 01:10:06 2020 +0800
+
+    updateV2.0
+
+[33mcommit 115d5ce4b61f87ef8d529784e5de4925f03d950b[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 21 22:08:32 2020 +0800
+
+    updateV1.4
+    添加main主程序
+    添加多线程
+
+[33mcommit 11384d0674daaad6a4616929c79b40b93183d606[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 21 00:34:34 2020 +0800
+
+    updateV1.3.6
+
+[33mcommit 83b0d5c249f86a1fc0b3609df4c51a86d7c84407[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Apr 20 18:32:41 2020 +0800
+
+    updateV1.3.5
+
+[33mcommit 84dea6561c35985d054a03d08f591fe904f17189[m
+Author: zyatom <70906346@qq.com>
+Date:   Mon Apr 20 01:36:02 2020 +0800
+
+    updateV1.4
+    适配steam
+
+[33mcommit 7ce780c4ce03366c6f6af3763e9fa1ced94de786[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 15 23:57:01 2020 +0800
+
+    updateV1.3.4
+    添加活动组队决斗
+
+[33mcommit babe86e2be0c95d47bdfcf7950ea9cc095324c4b[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 15 22:35:01 2020 +0800
+
+    updateV1.3.3
+
+[33mcommit 2e59dae1841e3518a5d8c47ebb998b31c1a689e9[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 14 23:42:48 2020 +0800
+
+    updateV1.3.2
+
+[33mcommit 85f8db0c3d10900fea96089f198c769bf2cd4488[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 14 23:40:40 2020 +0800
+
+    updateV1.3.2
+
+[33mcommit c1f70bdbee8374613959e57b3d099ef193a11aaa[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 14 14:31:32 2020 +0800
+
+    updateV1.3.1
+
+[33mcommit bfe81bd924be85ec5892657bee94fc0f51c5502b[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 14 00:51:36 2020 +0800
+
+    updateV1.3
+
+[33mcommit 48d7cd4f6da124f04498aa86ff432eb86f237cc1[m
+Author: zyatom <70906346@qq.com>
+Date:   Fri Apr 10 11:26:27 2020 +0800
+
+    updateV1.2
+
+[33mcommit 809bf33863b31850f00c393510b038b4afeb367f[m[33m ([m[1;33mtag: V1.2[m[33m)[m
+Author: zyatom <70906346@qq.com>
+Date:   Fri Apr 10 01:10:18 2020 +0800
+
+    更新欢迎界面
+
+[33mcommit c73cb504369a324a7ce16f51b0c01d5f1efe623a[m
+Author: zyatom <70906346@qq.com>
+Date:   Fri Apr 10 00:39:17 2020 +0800
+
+    添加十级门功能
+    添加pvp竞技场KV杯，排名，休闲选择功能
+    更新欢迎界面
+
+[33mcommit 31a0265bb381c5926b6532a63493115d93461113[m
+Author: zyatom <70906346@qq.com>
+Date:   Thu Apr 9 01:33:49 2020 +0800
+
+    添加十级门功能
+
+[33mcommit c1f64122f23079640c8a4c043ddb5257ba06c348[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 8 20:22:25 2020 +0800
+
+    update
+
+[33mcommit d9ade5dbd9e9e1f11424f2bf825f7d3a735a605b[m
+Author: zyatom <70906346@qq.com>
+Date:   Wed Apr 8 15:54:51 2020 +0800
+
+    update
+
+[33mcommit f5989ab17cc2e84637d89c6c58e8786f3ce4291f[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 19:38:01 2020 +0800
+
+    update
+
+[33mcommit 4adcd3069650a2a0c59b9def3584c4ec4ec24600[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 19:27:54 2020 +0800
+
+    update4.7.1
+
+[33mcommit 140e38172fef10ce446d9238037fd5497845cb1d[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 19:13:19 2020 +0800
+
+    delete png
+
+[33mcommit 11aaceef1d2cdfbb0859e8174eb04258215d762a[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 17:39:51 2020 +0800
+
+    update4.7.1
+
+[33mcommit 3561682f0ef0f02c56ed0cf0db8bacd62802024a[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 16:19:24 2020 +0800
+
+    update4.7
+
+[33mcommit b00976e8ccfe7e468971fc0468e047752c9538d3[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Apr 7 16:15:33 2020 +0800
+
+    update4.7
+
+[33mcommit bfbd41188551e23db2acdeda727f38f41e61fd7c[m
+Author: zyatom <70906346@qq.com>
+Date:   Tue Mar 31 13:10:01 2020 +0800
+
+    update
+
+[33mcommit b5b0f1487c53828ac3a42f9f2e094504a43ba106[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun May 12 00:33:51 2019 +0800
+
+    update
+
+[33mcommit 3927163615861be826836298bf47a855091ccce2[m
+Author: zyatom <70906346@qq.com>
+Date:   Sat May 11 16:57:01 2019 +0800
+
+    update
+
+[33mcommit ead147f8c7f0e21ff7ab6f2aa05b60ced5dc541b[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun Apr 28 23:32:13 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit ad48a0c236788329cc62666cfe7de8395340cdd1[m
+Author: zyatom <70906346@qq.com>
+Date:   Sun Apr 28 23:24:49 2019 +0800
+
+    Initial commit

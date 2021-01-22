@@ -15,3 +15,6 @@
 二群：1029301008（新建）：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=7Ppuf4VaCxQ-u-DIJIePEsdQyOM2mGNo&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Yu-Gi-Oh! Duel Links Script two" title="决斗链接国际服/国服"></a>
 
 
+- 一键加入QQ群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=69f5e118727c7ea925cc8d2f0eef0d729898cb8a24eae47e2b3ca3dd048de9d9"><img border="0" src="images/join_qq_group.png" alt="CoDo  CloudOpenDevOps" title="OpenDevOps用户交流群"></a>
+
+

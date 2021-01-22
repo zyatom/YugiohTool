@@ -11,7 +11,7 @@
 
 
 ## 请加qq群了解详情：  
-一群 908563503（快满了）：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=a9fc731dc99adda32f42d793e8b75936ccd84a1728f12b5790fd1ce52a48e713"><img border="0" src="images/join_qq_group.png" alt="游戏王决斗链接脚本交流群" title="点击加入游戏王决斗链接脚本交流群"></a>  
-2群：1029301008（新建）：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=7Ppuf4VaCxQ-u-DIJIePEsdQyOM2mGNo&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="决斗链接国际服/国服" title="决斗链接国际服/国服"></a>
+一群 908563503（快满了）：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=a9fc731dc99adda32f42d793e8b75936ccd84a1728f12b5790fd1ce52a48e713"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏王决斗链接脚本交流群一群" title="点击加入游戏王决斗链接脚本交流群"></a>  
+二群：1029301008（新建）：<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=7Ppuf4VaCxQ-u-DIJIePEsdQyOM2mGNo&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="游戏王决斗链接脚本交流群二群" title="决斗链接国际服/国服"></a>
 
 

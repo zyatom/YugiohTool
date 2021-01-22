@@ -17,9 +17,9 @@
 
 - 扫描二维码加群
 
-![](image/QQ图片20210122100305.png)
+![](image/qqgroup1.png)
 
-![](image/QQ图片20210122100259.png)
+![](image/qqgroup2.png)
 
 
 
